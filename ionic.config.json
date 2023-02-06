@@ -1,0 +1,8 @@
+{
+  "name": "ZergCounter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "ac7b49c9"
+}
